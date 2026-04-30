@@ -1,7 +1,7 @@
 Checklist de accesibilidad – Formulario Participa
 
 Nombre del estudiante:keiner villadiego 
-Fecha:28 abril 2026
+Fecha:30 abril 2026
 Nombre de la rama:keiner villadiego
 
 1. ¿El formulario tiene un título claro?
@@ -11,7 +11,7 @@ Respuesta:Sí, tiene un h1 descriptivo.
 Respuesta:Sí, se incluyó un párrafo explicativo al inicio.
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:Sí, todos los campos usan etiquetas label.
+Respuesta: Sí, todos los campos usan etiquetas label.
 
 4. ¿El lenguaje usado es sencillo y comprensible?
 Respuesta:Sí, es directo para la comunidad.
