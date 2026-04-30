@@ -1,7 +1,7 @@
 Reflexión de verificación responsable
 
 Nombre del estudiante:keiner villadiego
-Fecha:28 abril 2026
+Fecha:30 abril 2026
 Nombre de la rama:keiner villadiego
 
 Escribe una reflexión de 8 a 10 líneas respondiendo las siguientes preguntas:
@@ -18,7 +18,7 @@ Respuesta:
 ética incluye el diseño de interfaces que eliminen barreras para usuarios con 
 discapacidades. Por otro lado, la verificación responsable de los datos es crucial 
 para proteger la privacidad y la integridad de la información que los ciudadanos
-confían en nuestras plataformas. Al validar los datos correctamente, no soloevitamos
+confían en nuestras plataformas. Al validar los datos correctamente, no solo evitamos
  errores técnicos, sino que también promovemos un entorno digital seguro
  y confiable. Integrar estos conceptos desde el inicio de un proyecto asegura que
 la tecnología cumpla su propósito social de conectar a la comunidad de manera
