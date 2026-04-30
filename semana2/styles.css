@@ -1,57 +1,57 @@
-/* Estilo general del cuerpo de la página */
+
+/* Estilo general para toda la página */
 body {
-    background-color: #e3f2fd; /* Azul muy claro de fondo */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    padding: 20px;
     display: flex;
     justify-content: center;
-    padding: 50px;
 }
 
-/* Estilo del contenedor blanco (el cuadro del formulario) */
-.contenedor {
-    background-color: white;
-    padding: 30px;
-    border-radius: 15px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    max-width: 600px;
+/* El contenedor del formulario */
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     width: 100%;
+    max-width: 400px;
 }
 
-/* Estilo de los títulos */
-h1 {
-    color: #0d47a1; /* Azul oscuro */
-    text-align: center;
+/* Espacio entre cada campo del formulario */
+div {
+    margin-bottom: 15px;
 }
 
-/* Estilo de los textos de párrafo */
-p {
-    color: #555;
-    line-height: 1.6;
+/* Etiquetas (Labels) */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
 }
 
-/* Estilo de los campos de entrada (donde escribes) */
-input, textarea {
+/* Los campos de entrada (input) */
+input {
     width: 100%;
     padding: 10px;
-    margin-top: 5px;
     border: 1px solid #ccc;
-    border-radius: 5px;
-    box-sizing: border-box; /* Para que no se salga del cuadro */
+    border-radius: 4px;
+    box-sizing: border-box; /* Esto evita que el input se salga del formulario */
 }
 
-/* Estilo del botón (Inclusivo y visible) */
-button, .button {
-    background-color: #2e7d32; /* Verde bosque */
+/* El botón de envío */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
     color: white;
     border: none;
-    padding: 12px 20px;
-    border-radius: 8px;
+    border-radius: 4px;
     cursor: pointer;
-    font-weight: bold;
-    width: 100%;
-    margin-top: 20px;
+    font-size: 16px;
 }
 
+/* Efecto cuando pasas el mouse por encima del botón */
 button:hover {
-    background-color: #1b5e20; /* Verde más oscuro al pasar el mouse */
+    background-color: #218838;
 }
