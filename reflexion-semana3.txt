@@ -1,0 +1,17 @@
+La importancia de mantener un registro de cambios en
+los proyectos de software mediante herramientas como
+Git radica principalmente en la trazabilidad y la
+seguridad. En cualquier desarrollo, es común 
+enfrentar errores inesperados o la necesidad de 
+probar nuevas funcionalidades sin comprometer el 
+trabajo previo. Git nos permite crear "fotografías
+" de nuestro progreso, lo que nos da la capacidad 
+de regresar a una versión estable si algo sale mal
+Además, esta práctica es vital para el trabajo
+colaborativo, ya que permite que varios 
+desarrolladores sincronicen su código sin 
+sobrescribir el trabajo ajeno. En resumen, Git no
+es solo un sistema de archivos, sino un seguro 
+de calidad que garantiza que todo el historial 
+del proyecto sea ordenado, transparente y 
+recuperable en todo momento.
