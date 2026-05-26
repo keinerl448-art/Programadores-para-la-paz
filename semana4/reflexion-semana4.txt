@@ -1,0 +1,18 @@
+Me parece muy importante que las comunidades puedan
+crear sus propias herramientas con tecnologías
+abiertas como Node.js porque les da total 
+independencia. Cuando dependes de programas privados
+o licencias caras, muchas ideas se quedan en el
+camino por falta de presupuesto. En cambio, como Node
+.js es libre y cualquiera lo puede usar, se vuelve 
+una ventaja enorme para resolver problemas reales 
+del día a día en un barrio o un municipio sin tener 
+que pagarle a una gran empresa. Además, el hecho de 
+que sea código abierto ayuda a que la gente aprenda 
+junta, colabore compartiendo el conocimiento y se 
+cuiden mejor los datos de la misma comunidad. Al 
+final, esto hace que las iniciativas ciudadanas 
+dejen de ser simples consumidoras de lo que crean 
+otros y se conviertan en los dueños de sus propias 
+soluciones tecnológicas, adaptándolas exactamente a 
+lo que necesitan.
