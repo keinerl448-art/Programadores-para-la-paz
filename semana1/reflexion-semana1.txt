@@ -1,0 +1,5 @@
+El uso responsable de la información en internet es la base de una ciudadanía digital ética,
+ya que nos permite participar en la sociedad de manera informada y segura. Al verificar las fuentes antes de compartir datos,
+evitamos la propagación de noticias falsas que pueden causar daño o desinformación masiva. Esta responsabilidad se conecta directamente con el trabajo técnico que realizamos en herramientas como Git;
+el orden y la transparencia en el código reflejan un compromiso con la veracidad y la colaboración profesional.
+En conclusión, ser un buen ciudadano digital implica entender que nuestras acciones en la red deben estar orientadas a construir un entorno digital más coniable y pacífico para todos.
