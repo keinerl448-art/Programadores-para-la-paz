@@ -1,0 +1,13 @@
+Las APIs juegan un papel fundamental en el desarrollo de soluciones 
+tecnológicas comunitarias, ya que actúan como puentes de comunicación 
+organizados y estandarizados entre diferentes plataformas. Al centralizar 
+la recepción de datos mediante endpoints específicos, las APIs permiten 
+que aplicaciones móviles, páginas web o sistemas de mensajería envíen 
+reportes o alertas de manera uniforme. Esto elimina el desorden de 
+recibir información por canales informales o dispersos, facilitando que 
+los datos se clasifiquen, almacenen y procesen automáticamente en una 
+base de datos. De este modo, los líderes comunitarios o las entidades 
+encargadas pueden visualizar las problemáticas en paneles de control 
+ordenados, priorizar las emergencias reales según su urgencia y coordinar 
+respuestas rápidas y efectivas. En conclusión, optimizan el flujo de 
+información para transformarlo en acción comunitaria.

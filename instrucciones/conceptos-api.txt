@@ -1,0 +1,18 @@
+Análisis de la ruta POST /reporte:
+
+¿Qué hace esta ruta?
+Esta ruta escucha solicitudes HTTP mediante el método POST en el 
+endpoint '/reporte'. En lugar de mostrar información en el navegador, 
+está diseñada para recibir datos estructurados en formato JSON desde el 
+cuerpo de la petición (req.body.mensaje). Una vez que procesa el mensaje 
+entrante, responde confirmando la recepción con un objeto JSON que 
+contiene el estado "Reporte recibido" junto con el propio mensaje 
+enviado.
+
+¿Para qué podría servir en una aplicación comunitaria?
+En el contexto de una aplicación comunitaria, esta ruta es ideal para que 
+los ciudadanos o usuarios envíen reportes en tiempo real. Por ejemplo,
+podría utilizarse para registrar incidentes en la infraestructura 
+pública (como un bache en la calle o una luminaria dañada), enviar 
+alertas de seguridad ciudadana, o tramitar solicitudes y sugerencias
+hacia los líderes comunitarios de forma digital y automatizada.
